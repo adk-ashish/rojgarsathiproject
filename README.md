@@ -1,32 +1,45 @@
-RojgarSathi - Job Portal Application
-RojgarSathi is a comprehensive job portal application where companies can post job opportunities, and job seekers can explore, apply, and manage their applications seamlessly. The platform empowers users to create CVs, bookmark jobs, and perform advanced job searches. Built using the MERN stack, the application ensures a smooth and secure experience with features like user authentication, registration, and JWT tokenization.
+# RojgarSathi
 
-Features
-For Companies:
-Post job listings with detailed descriptions.
-Manage job postings.
-For Job Seekers:
-Register and create a user profile.
-Search for jobs using keywords and filters.
-Bookmark favorite job listings for future reference.
-Apply for jobs directly through the portal.
-Create and manage CVs within the platform.
-Security:
-User authentication and registration with secure password hashing.
-JSON Web Tokens (JWT) for session management and authorization.
-Tech Stack
-Frontend:
-React.js: For building a responsive and interactive user interface.
-Backend:
-Node.js: For handling server-side logic.
-Express.js: For API development.
-Database:
-MongoDB: For storing user data, job postings, and application records.
-Authentication:
-JWT Tokenization: For secure and stateless authentication.
+RojgarSathi is a comprehensive job portal application built with the MERN stack. It connects job seekers and employers on a unified platform. Employers can post job listings, while job seekers can search for opportunities, apply for jobs, bookmark listings, and create professional CVs. The platform also includes secure authentication and registration features powered by JWT tokenization.
 
-*******************************
-Author: Ashish Adhikari
-Email: [adhsashish125@gmail.com]
-GitHub: adk-ashish
-*******************************
+---
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+---
+
+## Introduction
+
+RojgarSathi bridges the gap between employers and job seekers by providing a user-friendly platform for recruitment and job discovery. Employers can effortlessly post jobs, while job seekers enjoy features like advanced search, bookmarking, CV creation, and job applications, all within a secure environment.
+
+---
+
+## Features
+
+### For Job Seekers:
+- **Job Search:** Search for jobs based on various filters and keywords.
+- **Apply for Jobs:** Submit applications directly to employers.
+- **Bookmark Jobs:** Save jobs to revisit them later.
+- **CV Builder:** Create and manage professional CVs directly on the platform.
+
+### For Employers:
+- **Post Jobs:** Add detailed job postings for potential candidates.
+- **Manage Job Listings:** Update or delete job posts as needed.
+
+### Security & Authentication:
+- **Registration and Login:** Secure user accounts with email/password authentication.
+- **JWT Tokenization:** Ensure secure session management for all users.
+
+---
+
+## Technologies Used
+
+- **Frontend:** React.js
+- **Backend:** Node.js with Express.js
+- **Database:** MongoDB
+- **Authentication:** JSON Web Token (JWT)
+- **CSS Framework:** Tailwind CSS
+
